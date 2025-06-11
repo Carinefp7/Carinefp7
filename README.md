@@ -9,4 +9,5 @@ botões   para fácil acesso as planilhas ;.
 foram feitas formataçoes no cpf e telefone/ celular para facilitar o  preechimento;
 foi inserida uma lista  como nomes de banco  e formatação com alerta  para evitar errros.
 
+OBSERVAÇÃO:DADOS PESSOAIS  PREENCHIDOS SEM VALIDADE SOMENTE PARA EXEMPLO.
 
